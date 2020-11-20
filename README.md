@@ -1,4 +1,3 @@
-
 <p align="center">
     <img alt="Skylab" src="./public/skylab.svg" width="60" />
 </p>
@@ -17,13 +16,25 @@
 
 <p>This project is a clone ui of the login of @rocketseat using reactjs, typescript, nextjs, and chakra-ui.This site is responsive and uses chakra-ui to define a default of styles</p>
 <p align="center">
+  <a href="#camera-screenshot">Screenshot</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#arrowdown-installations">Installations</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#boom-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#page_facing_up-license">License</a>
 </p>
 
+---
+
+## :camera: Screenshot:
+
+<img src="./screenshot/web.png" width="800" alt="web"/>
+<img src="./screenshot/mobile.png" height="600" alt="mobile"/>
+
+---
+
 ## :arrow_down: Installations:
+
 To installations dependencies, follow the steps below:
+
 ```
   yarn or npm i // install dependencies
   yarn dev or npm run dev // developer
@@ -32,6 +43,7 @@ To installations dependencies, follow the steps below:
 ```
 
 ## :boom: technologies:
+
 This project contains those technologies:
 
 - [ReactJS](https://reactjs.org/)
@@ -39,13 +51,13 @@ This project contains those technologies:
 - [nextjs](https://nextjs.org/)
 - [chakra-ui](https://chakra-ui.com/)
 
-***
+---
 
 ## :page_facing_up: License
 
 This project is MIT licensed, as found in the [LICENSE](https://github.com/janapc/skylab-next/blob/main/LICENSE) file.
 
-***
+---
 
 <br>
 
